@@ -1,1 +1,6 @@
 # PEGAI-Conformal_CRAG
+
+Aditya Shetty - PES1UG24AM018
+Aryan Vinju - PES1UG24AM056
+Apeksha Ashok - PES1UG24AM048
+Samarth M - PES1UG24AM396
