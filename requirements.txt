@@ -1,0 +1,16 @@
+langchain-core
+langchain-community
+langchain-openai
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+tavily-python
+datasets
+scipy
+numpy
+pandas
+matplotlib
+tqdm
+python-dotenv
+streamlit
+requests
