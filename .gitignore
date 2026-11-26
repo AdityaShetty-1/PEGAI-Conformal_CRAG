@@ -1,6 +1,5 @@
-.env
-.venv/
-.cache/
 __pycache__/
-*.py[cod]
-results*/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
